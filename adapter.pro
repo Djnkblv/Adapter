@@ -12,6 +12,7 @@ SOURCES += \
         main.cpp \
         mallarduck.cpp \
         turkey.cpp \
+        turkeyadapter.cpp \
         wildturkey.cpp
 
 # Default rules for deployment.
@@ -23,4 +24,5 @@ HEADERS += \
     duck.h \
     mallarduck.h \
     turkey.h \
+    turkeyadapter.h \
     wildturkey.h
